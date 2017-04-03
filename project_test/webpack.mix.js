@@ -15,6 +15,6 @@ mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css')
    .combine([
        'resources/assets/sass/bootstrap.scss',
-        'resources/assets/sass/bulmi.scss
+        'resources/assets/sass/bulmi.scss'
     ])
 ;
